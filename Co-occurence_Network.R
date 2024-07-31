@@ -45,9 +45,7 @@ comparenet       ## comparenet stores the network plots and correlation informat
 #### Network hub identification  ------------
 
 # Load additional required libraries
-library(ggClusterNet)
 library(file2meco)
-library(phyloseq)
 library(tidyverse)
 library(ggtree)
 library(igraph)
